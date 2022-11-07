@@ -1,0 +1,103 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-image{
+    background-image: url(imagens/banner2.jpg_large);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.titulos{
+    padding: 30px;
+    text-align: center;
+
+}
+.navbar{
+    background-color: rgba(0, 0, 0, 0.726);
+}
+.nameNavbar{
+    margin-left: 50px;
+}
+#fotoperfil{
+    width: 280px;
+    height: 280px;
+    float: right;
+    border-radius: 20%;
+}
+.logo{
+    width: 50px;
+    margin-left: 30px;
+}
+.card{
+    border-radius: 100%;
+}
+.cardImg{
+    border-radius: 100%;
+}
+#separar{
+    background: url(imagens/fran.jpg);
+    min-height: 50vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.titulos{
+    font-family:'Kaushan Script';
+    font-size: 35px;
+}
+.Ig{
+    font-family:'Kaushan Script';
+}
+.ftComent{
+    height: 200px;
+}
+.tituloComent{
+    margin-top: 40px;
+    margin-bottom: 120px;
+    font-size: 20px;
+}
+.txtCurio{
+    margin-top: 150px;
+    text-align: center;
+}
+.txtCurio2{
+    margin-top: 160px;
+    text-align: center;
+}
+.ftCuriosidades{
+    width: 290px;
+    height: 300px;
+    border-radius: 20%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.balao {
+    width: 312px;
+    height: 200px;
+    float: left;
+    text-align: left;
+    background-image: url(imagens/balao.png);
+    background-size: 270px;
+    background-repeat: no-repeat;
+    padding: 50px 20px;
+}
+.recado{
+    margin-bottom: 100px;
+    font-size: 15px;
+}
+.nome {
+    margin-left: 180px;
+    margin-top: 90px;
+    font-size: 1.2rem;
+    text-align: right;
+}
+.ftPets{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
